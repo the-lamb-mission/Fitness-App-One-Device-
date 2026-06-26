@@ -16,4 +16,33 @@ By accessing the /codes/Sprite/worksetMoveContent.json, you will be able to easi
 There are dependent libraries such as OpenCV and firebase admin for this app, which you may be missing. Also, I have intentionally not uploaded the privateKey.json file (a required file for this app to work) for database access (I do not want the key to be public). I have also not uploaded the pre-trained model file, which you can find [here](https://github.com/foss-for-synopsys-dwc-arc-processors/synopsys-caffe-models/raw/master/caffe_models/openpose/caffe_model/pose_iter_440000.caffemodel).
 
 ## Gallery (App Snapshot)
-This will be included in added in the future.
+
+Authentication Page: 
+![alt text][logo]
+
+[logo]: https://github.com/the-lamb-mission/Fitness-App-One-Device-/blob/main/Gallery/AuthenticationPage.png "Authentication"
+
+Main Menu Page: 
+![alt text][logo]
+
+[logo]: https://github.com/the-lamb-mission/Fitness-App-One-Device-/blob/main/Gallery/MainMenuPage.png "Main Menu"
+
+Course Selection Page: 
+![alt text][logo]
+
+[logo]: https://github.com/the-lamb-mission/Fitness-App-One-Device-/blob/main/Gallery/CourseSelectionPage.png "Course Selection"
+
+Within A Course: 
+![alt text][logo]
+
+[logo]:  https://github.com/the-lamb-mission/Fitness-App-One-Device-/blob/main/Gallery/InsideACourse.png "Course"
+ 
+Account Info Page: 
+![alt text][logo]
+
+[logo]: https://github.com/the-lamb-mission/Fitness-App-One-Device-/blob/main/Gallery/AccountInfoPage.png "Account Info"
+
+Escape Menu: 
+![alt text][logo]
+
+[logo]: https://github.com/the-lamb-mission/Fitness-App-One-Device-/blob/main/Gallery/EscMenu.png "Escape Menu"
