@@ -1,5 +1,5 @@
 # Fitness-App-One-Device
-A fitness app, fully developed in python, for guiding users on fitness training. 
+A fitness app, fully developed in python, for guiding users on fitness training. No vibe code or AI slops, fully hand-written code.
 
 ## What is it, and why?
 This is a fitness app, with the purpose of reducing reliant on external devices (e.g. controllers, body-tracking devices). This is achieved with the use of Pose Estimation, by using a pre-trained model to predict human poses via in-built webcams.
@@ -14,6 +14,9 @@ By accessing the /codes/Sprite/worksetMoveContent.json, you will be able to easi
 
 ## Why is the app not working when you download it?
 There are dependent libraries such as OpenCV and firebase admin for this app, which you may be missing. Also, I have intentionally not uploaded the privateKey.json file (a required file for this app to work) for database access (I do not want the key to be public). I have also not uploaded the pre-trained model file, which you can find [here](https://github.com/foss-for-synopsys-dwc-arc-processors/synopsys-caffe-models/raw/master/caffe_models/openpose/caffe_model/pose_iter_440000.caffemodel).
+
+## Background of the project...
+This is an individual project aimed for my OCR's A Level NEA. It is my exploration on how pose estimation can be embedded to different applications, and comparing the pros and cons between different pre-trained models. 
 
 ## Gallery (App Snapshot)
 
