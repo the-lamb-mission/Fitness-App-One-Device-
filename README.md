@@ -18,31 +18,31 @@ There are dependent libraries such as OpenCV and firebase admin for this app, wh
 ## Gallery (App Snapshot)
 
 Authentication Page: 
-![alt text][logo]
+![alt text][logo1]
 
-[logo]: https://github.com/the-lamb-mission/Fitness-App-One-Device-/blob/main/Gallery/AuthenticationPage.png "Authentication"
+[logo1]: https://github.com/the-lamb-mission/Fitness-App-One-Device-/blob/main/Gallery/AuthenticationPage.png "Authentication"
 
 Main Menu Page: 
-![alt text][logo]
+![alt text][logo2]
 
-[logo]: https://github.com/the-lamb-mission/Fitness-App-One-Device-/blob/main/Gallery/MainMenuPage.png "Main Menu"
+[logo2]: https://github.com/the-lamb-mission/Fitness-App-One-Device-/blob/main/Gallery/MainMenuPage.png "Main Menu"
 
 Course Selection Page: 
-![alt text][logo]
+![alt text][logo3]
 
-[logo]: https://github.com/the-lamb-mission/Fitness-App-One-Device-/blob/main/Gallery/CourseSelectionPage.png "Course Selection"
+[logo3]: https://github.com/the-lamb-mission/Fitness-App-One-Device-/blob/main/Gallery/CourseSelectionPage.png "Course Selection"
 
 Within A Course: 
-![alt text][logo]
+![alt text][logo4]
 
-[logo]:  https://github.com/the-lamb-mission/Fitness-App-One-Device-/blob/main/Gallery/InsideACourse.png "Course"
+[logo4]:  https://github.com/the-lamb-mission/Fitness-App-One-Device-/blob/main/Gallery/InsideACourse.png "Course"
  
 Account Info Page: 
-![alt text][logo]
+![alt text][logo5]
 
-[logo]: https://github.com/the-lamb-mission/Fitness-App-One-Device-/blob/main/Gallery/AccountInfoPage.png "Account Info"
+[logo5]: https://github.com/the-lamb-mission/Fitness-App-One-Device-/blob/main/Gallery/AccountInfoPage.png "Account Info"
 
 Escape Menu: 
-![alt text][logo]
+![alt text][logo6]
 
-[logo]: https://github.com/the-lamb-mission/Fitness-App-One-Device-/blob/main/Gallery/EscMenu.png "Escape Menu"
+[logo6]: https://github.com/the-lamb-mission/Fitness-App-One-Device-/blob/main/Gallery/EscMenu.png "Escape Menu"
