@@ -1,0 +1,18 @@
+{
+    "SitUpL":{
+        "RequiredBodyParts":["LShoulder", "LHip", "LKnee", "LAnkle"],
+        "CheckPose":{
+            "down": ["LShoulder", "LHip", "LKnee", 120],
+            "up": ["LShoulder", "LHip", "LKnee", 120]
+        },
+        "AnimationSequences":["idle", "sitUp", "up", "sitDown", "down","idle", "sitUp", "up", "sitDown", "down","idle", "sitUp", "up", "sitDown", "down"]
+    },
+    "SitUpR":{
+        "RequiredBodyParts":["RShoulder", "RHip", "RKnee", "RAnkle"],
+        "CheckPose":{
+            "down": ["RShoulder", "RHip", "RKnee", 120],
+            "up": ["RShoulder", "RHip", "RKnee", 120]
+        },
+        "AnimationSequences":["idle", "sitUp", "up", "sitDown", "down","idle", "sitUp", "up", "sitDown", "down","idle", "sitUp", "up", "sitDown", "down"]
+    }
+}

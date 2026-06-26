@@ -1,0 +1,25 @@
+{
+    "SitUpL":{
+        "RequiredBodyParts":["LShoulder", "LHip", "LKnee"],
+        "CheckPose":{
+            "down": ["LShoulder", "LHip", "LKnee", 120],
+            "up": ["LShoulder", "LHip", "LKnee", 120]
+        },
+        "AnimationSequences":["lieL", "sitUpL", "up", "sitDownL", "down", "sitUpL", "up", "sitDownL", "down", "sitUpL", "up", "sitDownL", "down"]
+    },
+    "SitUpR":{
+        "RequiredBodyParts":["RShoulder", "RHip", "RKnee"],
+        "CheckPose":{
+            "down": ["RShoulder", "RHip", "RKnee", 120],
+            "up": ["RShoulder", "RHip", "RKnee", 120]
+        },
+        "AnimationSequences":["lieR", "sitUpR", "up", "sitDownR", "down", "sitUpR", "up", "sitDownR", "down", "sitUpR", "up", "sitDownR", "down"]
+    },
+    "Face Test Sample":{
+        "RequiredBodyParts":["Nose", "LEye", "REye"],
+        "CheckPose":{
+            "down": ["LEye", "Nose", "REye", 85]
+        },
+        "AnimationSequences":["lieL", "sitUpL", "down", "sitDownL", "sitUpL", "sitDownL", "sitUpL", "sitDownL"]
+	}
+}
